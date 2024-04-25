@@ -5,10 +5,10 @@ Dataset - https://www.kaggle.com/arjuntejaswi/plant-village
 
 Language - Python
 
-Libraries - Numpy
-            Pandas
-            Matplotlib
-            Streamlit
-            Tensorflow
+Libraries - Numpy,
+            Pandas,
+            Matplotlib,
+            Streamlit,
+            Tensorflow,
             Keras
 
