@@ -28,12 +28,14 @@ Finally you can use individual images of dataset to test your model.
 
 # Future Plans
 
+Suggest actions to be taken on the Plant.
+
 Split the dataset into train, dev and test.
 
 Setup Backend TF Server using FastAPI.
 
 Develop website using React.
 
-Make a lighter model using Quantisation techniques which would help in making a Mobile App using React Native.
+Make a lighter model with help of Quantisation techniques which is required to make a Mobile App using React Native that shall be very helpful for the Farmers.
 
 Finally, Deployment using Google Cloud Platform [GCP].
