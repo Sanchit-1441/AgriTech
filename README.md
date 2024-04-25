@@ -1,4 +1,4 @@
-## Plant Disease Identifier
+# Plant Disease Identifier
 Image Classification using CNN
 
 Dataset - https://www.kaggle.com/arjuntejaswi/plant-village
