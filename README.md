@@ -13,4 +13,4 @@ Libraries - Numpy,
             Keras
 
 Colab Link - https://colab.research.google.com/drive/1tNLLUS_ZzSJ5cK8c2PQNs9IOgwBveSzb?usp=sharing
-            [Remember to use GPU or TPU runtime for faster Execution]
+[Remember to use GPU or TPU runtime for faster Execution]
